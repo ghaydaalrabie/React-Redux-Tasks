@@ -1,0 +1,16 @@
+html {
+  overflow-x: hidden;
+  width: 100%;
+}
+
+body {
+  position: relative;
+}
+
+button {
+  align-items: center;
+}
+
+#react-root {
+  /* padding-top: 50px; */
+}
